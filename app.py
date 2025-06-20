@@ -21,7 +21,7 @@ st.title("Deteksi Ulasan Palsu")
 st.write("Masukan ulasan untuk melakukan analisis menggunakan model SVM oleh Najib Sauqi R (21.11.4406).")
 
 # Source Code
-st.markdown("[Source Code](https://github.com/Njsa13/fake-review-detection-web-app)")
+st.markdown("Source Code: [Github](https://github.com/Njsa13/fake-review-detection-web-app)")
 
 # Input dari pengguna
 input_text = st.text_area("Input teks disini")
