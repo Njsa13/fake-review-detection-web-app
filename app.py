@@ -18,7 +18,7 @@ svm_model = joblib.load('./model/svm_model.pkl')
 
 # Judul aplikasi
 st.title("Deteksi Ulasan Palsu")
-st.write("Masukan ulasan untuk melakukan analisis menggunakan model SVM.")
+st.write("Masukan ulasan untuk melakukan analisis menggunakan model SVM oleh Najib Sauqi R (21.11.4406).")
 
 # Input dari pengguna
 input_text = st.text_area("Input teks disini")
